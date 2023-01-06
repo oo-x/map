@@ -1,0 +1,1626 @@
+{
+	"2nd_street": {
+		"x": 352,
+		"y": 48,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"82bank": {
+		"x": 352,
+		"y": 96,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"aeon": {
+		"x": 352,
+		"y": 144,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"airport-jr": {
+		"x": 256,
+		"y": 48,
+		"width": 96,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"airport-shitetsu-jr": {
+		"x": 256,
+		"y": 0,
+		"width": 144,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"airport-shitetsu": {
+		"x": 256,
+		"y": 96,
+		"width": 96,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"airport-subway": {
+		"x": 256,
+		"y": 144,
+		"width": 96,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"airport": {
+		"x": 256,
+		"y": 192,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"aoki": {
+		"x": 304,
+		"y": 192,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"aquarium": {
+		"x": 352,
+		"y": 192,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"atm": {
+		"x": 224,
+		"y": 128,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"attraction": {
+		"x": 128,
+		"y": 128,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"autobacs": {
+		"x": 176,
+		"y": 128,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"bamiyan": {
+		"x": 128,
+		"y": 176,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"bank": {
+		"x": 176,
+		"y": 176,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"baskinrobbins": {
+		"x": 0,
+		"y": 256,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"best_denki": {
+		"x": 48,
+		"y": 256,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"bigboy": {
+		"x": 96,
+		"y": 256,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"bikkuri_donkey": {
+		"x": 144,
+		"y": 256,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"bookoff": {
+		"x": 192,
+		"y": 256,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"botanical_garden": {
+		"x": 240,
+		"y": 256,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"boy": {
+		"x": 288,
+		"y": 256,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"bronco_billy": {
+		"x": 336,
+		"y": 256,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"burger_king": {
+		"x": 0,
+		"y": 304,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"bus_stop": {
+		"x": 48,
+		"y": 304,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"busstop": {
+		"x": 224,
+		"y": 152,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"busstop_gray": {
+		"x": 688,
+		"y": 144,
+		"width": 43,
+		"height": 43,
+		"pixelRatio": 1
+	},
+	"busstop_red": {
+		"x": 688,
+		"y": 187,
+		"width": 43,
+		"height": 43,
+		"pixelRatio": 1
+	},
+	"cafe": {
+		"x": 96,
+		"y": 304,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"cafe_de_crie": {
+		"x": 144,
+		"y": 304,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"caffe_veloce": {
+		"x": 192,
+		"y": 304,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"camp_site": {
+		"x": 240,
+		"y": 304,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"castle": {
+		"x": 288,
+		"y": 304,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"chibabank": {
+		"x": 336,
+		"y": 304,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"circle": {
+		"x": 0,
+		"y": 352,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"circle_green": {
+		"x": 224,
+		"y": 176,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"circlek": {
+		"x": 48,
+		"y": 352,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"coco_ichibanya": {
+		"x": 96,
+		"y": 352,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"cocos": {
+		"x": 144,
+		"y": 352,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"coffee_kan": {
+		"x": 192,
+		"y": 352,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"convenience": {
+		"x": 240,
+		"y": 352,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"daily-yamazaki": {
+		"x": 288,
+		"y": 352,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"dennys": {
+		"x": 336,
+		"y": 352,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"domino_pizza": {
+		"x": 400,
+		"y": 0,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"doutor": {
+		"x": 400,
+		"y": 48,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"elevator": {
+		"x": 224,
+		"y": 200,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"escalator": {
+		"x": 128,
+		"y": 224,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"excelsior_caffe": {
+		"x": 400,
+		"y": 96,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"exit": {
+		"x": 152,
+		"y": 224,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"familymart": {
+		"x": 400,
+		"y": 144,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"famima": {
+		"x": 400,
+		"y": 192,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"ferry": {
+		"x": 400,
+		"y": 240,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"fire_station": {
+		"x": 400,
+		"y": 288,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"freshness_burger": {
+		"x": 400,
+		"y": 336,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"gas_station": {
+		"x": 0,
+		"y": 400,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"geo": {
+		"x": 48,
+		"y": 400,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"gindaco": {
+		"x": 96,
+		"y": 400,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"golf": {
+		"x": 144,
+		"y": 400,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"grocery": {
+		"x": 192,
+		"y": 400,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"gu": {
+		"x": 240,
+		"y": 400,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"guide": {
+		"x": 176,
+		"y": 224,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"gusto": {
+		"x": 288,
+		"y": 400,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"gyouza_no_ohsho": {
+		"x": 336,
+		"y": 400,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"hamazushi": {
+		"x": 384,
+		"y": 400,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"hardoff": {
+		"x": 448,
+		"y": 0,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"haruyama": {
+		"x": 448,
+		"y": 48,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"highway_exit": {
+		"x": 448,
+		"y": 96,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"highway_exit2": {
+		"x": 200,
+		"y": 224,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"hobbyoff": {
+		"x": 448,
+		"y": 144,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"hoshino_coffee": {
+		"x": 448,
+		"y": 192,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"hospital": {
+		"x": 448,
+		"y": 240,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"hotsprings": {
+		"x": 448,
+		"y": 288,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"ic": {
+		"x": 448,
+		"y": 336,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"ikinari_steak": {
+		"x": 448,
+		"y": 384,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"inageya": {
+		"x": 0,
+		"y": 448,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"intersection": {
+		"x": 48,
+		"y": 448,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"itoyokado": {
+		"x": 96,
+		"y": 448,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"jolly_pasta": {
+		"x": 144,
+		"y": 448,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"jonathan": {
+		"x": 192,
+		"y": 448,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"joyfull": {
+		"x": 240,
+		"y": 448,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"joyobank": {
+		"x": 288,
+		"y": 448,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"jr": {
+		"x": 336,
+		"y": 448,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"kasumi": {
+		"x": 384,
+		"y": 448,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"kfc": {
+		"x": 432,
+		"y": 448,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"kindergarten": {
+		"x": 496,
+		"y": 0,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"komeda_coffee": {
+		"x": 496,
+		"y": 48,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"kozozushi": {
+		"x": 496,
+		"y": 96,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"lawson": {
+		"x": 496,
+		"y": 144,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"lawson_store100": {
+		"x": 496,
+		"y": 192,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"library": {
+		"x": 496,
+		"y": 240,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"life": {
+		"x": 496,
+		"y": 288,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"locker": {
+		"x": 224,
+		"y": 224,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"lodging": {
+		"x": 496,
+		"y": 336,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"loft": {
+		"x": 496,
+		"y": 384,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"lotteria": {
+		"x": 496,
+		"y": 432,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"mapsymbol_test": {
+		"x": 0,
+		"y": 496,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"mapsymbol_test1": {
+		"x": 48,
+		"y": 496,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"maruetsu": {
+		"x": 96,
+		"y": 496,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"marugame_seimen": {
+		"x": 144,
+		"y": 496,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"matsumoto_kiyoshi": {
+		"x": 192,
+		"y": 496,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"matsuya": {
+		"x": 240,
+		"y": 496,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"matsuyadenki": {
+		"x": 288,
+		"y": 496,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"mcdonalds": {
+		"x": 336,
+		"y": 496,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"ministop": {
+		"x": 384,
+		"y": 496,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"misterdonut": {
+		"x": 432,
+		"y": 496,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"mizuho": {
+		"x": 480,
+		"y": 496,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"mos": {
+		"x": 544,
+		"y": 0,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"mountain": {
+		"x": 544,
+		"y": 48,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"mufg": {
+		"x": 544,
+		"y": 96,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"muji": {
+		"x": 544,
+		"y": 144,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"museum": {
+		"x": 544,
+		"y": 192,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"mybasket": {
+		"x": 544,
+		"y": 240,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"nakau": {
+		"x": 544,
+		"y": 288,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"natural_lawson": {
+		"x": 544,
+		"y": 336,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"nitori": {
+		"x": 544,
+		"y": 384,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"offhouse": {
+		"x": 544,
+		"y": 432,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"okstore": {
+		"x": 544,
+		"y": 480,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"okuwa": {
+		"x": 0,
+		"y": 544,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"oneway": {
+		"x": 684,
+		"y": 688,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"osaka_ohsho": {
+		"x": 48,
+		"y": 544,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"park": {
+		"x": 96,
+		"y": 544,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"parking": {
+		"x": 144,
+		"y": 544,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"pepper_lunch": {
+		"x": 192,
+		"y": 544,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"phone": {
+		"x": 708,
+		"y": 688,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"photo": {
+		"x": 736,
+		"y": 0,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"pin_airport": {
+		"x": 688,
+		"y": 230,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_bus_stop": {
+		"x": 688,
+		"y": 266,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_103": {
+		"x": 688,
+		"y": 302,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_104": {
+		"x": 688,
+		"y": 338,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_105": {
+		"x": 688,
+		"y": 374,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_106": {
+		"x": 688,
+		"y": 410,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_107": {
+		"x": 688,
+		"y": 446,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_108": {
+		"x": 688,
+		"y": 482,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_109": {
+		"x": 688,
+		"y": 518,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_201": {
+		"x": 688,
+		"y": 554,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_202": {
+		"x": 688,
+		"y": 590,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_203": {
+		"x": 688,
+		"y": 626,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_301": {
+		"x": 0,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_303": {
+		"x": 36,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_304": {
+		"x": 72,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_401": {
+		"x": 108,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_402": {
+		"x": 144,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_403": {
+		"x": 180,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_404": {
+		"x": 216,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_category_408": {
+		"x": 252,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_current_accuracy": {
+		"x": 0,
+		"y": 0,
+		"width": 128,
+		"height": 128,
+		"pixelRatio": 1
+	},
+	"pin_current_heading": {
+		"x": 128,
+		"y": 0,
+		"width": 128,
+		"height": 128,
+		"pixelRatio": 1
+	},
+	"pin_current_location": {
+		"x": 0,
+		"y": 128,
+		"width": 128,
+		"height": 128,
+		"pixelRatio": 1
+	},
+	"pin_general": {
+		"x": 288,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_goal": {
+		"x": 324,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_goal_ja": {
+		"x": 360,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_harbor": {
+		"x": 396,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_search_center": {
+		"x": 432,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_start": {
+		"x": 468,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_start_ja": {
+		"x": 504,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_station": {
+		"x": 540,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pin_undefined": {
+		"x": 576,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"pizza_hut": {
+		"x": 240,
+		"y": 544,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"pizza_la": {
+		"x": 288,
+		"y": 544,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"planetarium": {
+		"x": 336,
+		"y": 544,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"police": {
+		"x": 384,
+		"y": 544,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"poplar": {
+		"x": 432,
+		"y": 544,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"post_office": {
+		"x": 480,
+		"y": 544,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"pronto": {
+		"x": 528,
+		"y": 544,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"public": {
+		"x": 592,
+		"y": 0,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"rail": {
+		"x": 592,
+		"y": 48,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"recycle_mart": {
+		"x": 592,
+		"y": 96,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"resona": {
+		"x": 592,
+		"y": 144,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"restaurant": {
+		"x": 592,
+		"y": 192,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"ringerhut": {
+		"x": 592,
+		"y": 240,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"roadnumber_001": {
+		"x": 736,
+		"y": 24,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"roadnumber_002": {
+		"x": 736,
+		"y": 48,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"roadside_station": {
+		"x": 592,
+		"y": 288,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"royalhost": {
+		"x": 592,
+		"y": 336,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"saint-marc_cafe": {
+		"x": 592,
+		"y": 384,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"saizeriya": {
+		"x": 592,
+		"y": 432,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"sakura_test": {
+		"x": 612,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"sakura_test2": {
+		"x": 648,
+		"y": 688,
+		"width": 36,
+		"height": 36,
+		"pixelRatio": 1
+	},
+	"sakura_test_wide": {
+		"x": 688,
+		"y": 662,
+		"width": 48,
+		"height": 25,
+		"pixelRatio": 1
+	},
+	"school": {
+		"x": 592,
+		"y": 480,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"seicomart": {
+		"x": 592,
+		"y": 528,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"seiyu": {
+		"x": 0,
+		"y": 592,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"seven-eleven": {
+		"x": 48,
+		"y": 592,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"shimamura": {
+		"x": 96,
+		"y": 592,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"shitetsu": {
+		"x": 144,
+		"y": 592,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"shizuokabank": {
+		"x": 192,
+		"y": 592,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"shop": {
+		"x": 240,
+		"y": 592,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"shrine": {
+		"x": 288,
+		"y": 592,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"sightseeing": {
+		"x": 336,
+		"y": 592,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"signal": {
+		"x": 384,
+		"y": 592,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"ski": {
+		"x": 432,
+		"y": 592,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"smbc": {
+		"x": 480,
+		"y": 592,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"smoking": {
+		"x": 736,
+		"y": 72,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"sports": {
+		"x": 528,
+		"y": 592,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"starbucks": {
+		"x": 576,
+		"y": 592,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"station": {
+		"x": 640,
+		"y": 0,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"steak_miya": {
+		"x": 640,
+		"y": 48,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"subway": {
+		"x": 640,
+		"y": 96,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"subway_food": {
+		"x": 640,
+		"y": 144,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"sukiya": {
+		"x": 640,
+		"y": 192,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"sunkus": {
+		"x": 640,
+		"y": 240,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"surugabank": {
+		"x": 640,
+		"y": 288,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"sushiro": {
+		"x": 640,
+		"y": 336,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"sweets": {
+		"x": 640,
+		"y": 384,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"syabuyo": {
+		"x": 640,
+		"y": 432,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"taiyakan": {
+		"x": 640,
+		"y": 480,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"target": {
+		"x": 736,
+		"y": 96,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"temple": {
+		"x": 640,
+		"y": 528,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"tenya": {
+		"x": 640,
+		"y": 576,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"three-f": {
+		"x": 0,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"toilet": {
+		"x": 736,
+		"y": 120,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"toilet_female": {
+		"x": 736,
+		"y": 144,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"toilet_male": {
+		"x": 736,
+		"y": 168,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"toilet_multipurpose": {
+		"x": 736,
+		"y": 192,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"tonden": {
+		"x": 48,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"townhall": {
+		"x": 96,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"tullys": {
+		"x": 144,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"ueshimacoffee": {
+		"x": 192,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"uobei": {
+		"x": 240,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"vending_machine": {
+		"x": 736,
+		"y": 216,
+		"width": 24,
+		"height": 24,
+		"pixelRatio": 1
+	},
+	"victoria": {
+		"x": 288,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"walk_trajectory": {
+		"x": 736,
+		"y": 240,
+		"width": 12,
+		"height": 12,
+		"pixelRatio": 1
+	},
+	"washoku_sato": {
+		"x": 336,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"y-aoyama": {
+		"x": 384,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"yakiniku_king": {
+		"x": 432,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"yamazakiyshop": {
+		"x": 480,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"yayoiken": {
+		"x": 528,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"yellowhat": {
+		"x": 576,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"yorkbenimaru": {
+		"x": 624,
+		"y": 640,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"yoshinoya": {
+		"x": 688,
+		"y": 0,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"yumean": {
+		"x": 688,
+		"y": 48,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	},
+	"zoo": {
+		"x": 688,
+		"y": 96,
+		"width": 48,
+		"height": 48,
+		"pixelRatio": 1
+	}
+}
